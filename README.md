@@ -1,7 +1,7 @@
 Nightmare-Among-Shadows-Open-Source-Assets
 ==========================================
 
-UDK (unreal engine) is property of Epic Games Inc. The assets provided were developed by Mythic and its respected partners
+UDK (unreal engine) is property of Epic Games Inc. The assets and code provided were developed by Mythic and its respected partners
 
 ---
 
@@ -29,7 +29,7 @@ that reflects tropes and parodies of our own to be its own unique and satisfying
 
 ---
 
-The assets included in this repository are free to use by any individual and or group to create Nightmare: Among Shadows
+The code included in this repository is free to use by any individual and or group to create Nightmare: Among Shadows
 mods and or full independent projects. 
 
 Please provide respected credit and use the contents with care.
